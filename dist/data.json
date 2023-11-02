@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Python for Beginners",
+      "details": "Start your programming journey with Python, a beginner-friendly language.",
+      "cover": "https://i.ibb.co/r6vCP5M/Rectangle-2.png",
+      "price": 100,
+      "hour": 3
+    },
+    {
+      "id": 2,
+      "name": "Java Programming Fundamentals",
+      "details": "Learn the core concepts of Java programming and object-oriented principles.",
+      "cover": "https://i.ibb.co/J3qgv51/Rectangle-2-5.png",
+      "price": 150,
+      "hour": 4
+    },
+    {
+      "id": 3,
+      "name": "Web Development with JavaScript",
+      "details": "Master front-end web development using JavaScript, HTML, and CSS.",
+      "cover": "https://i.ibb.co/J3qgv51/Rectangle-2-5.png",
+      "price": 45,
+      "hour": 4
+    },
+    {
+      "id": 4,
+      "name": "C++ Programming and Algorithms",
+      "details": "Explore C++ programming and algorithms for software development.",
+      "cover": "https://i.ibb.co/pZSrtZ5/Rectangle-2-4.png",
+      "price": 55,
+      "hour": 4
+    },
+    {
+      "id": 5,
+      "name": "Data Structures and Algorithms in Python",
+      "details": "Enhance your Python skills with data structures and algorithmic techniques.",
+      "cover": "https://i.ibb.co/XkR5HYq/Rectangle-2-3.png",
+      "price": 200,
+      "hour": 4
+    },
+    {
+      "id": 6,
+      "name": "Game Development with Unity",
+      "details": "Create games with Unity game engine and C# programming.",
+      "cover": "https://i.ibb.co/bmS7Xy4/Rectangle-2-2.png",
+      "price": 130,
+      "hour": 6
+    },
+    {
+      "id": 7,
+      "name": "Ruby on Rails Web Development",
+      "details": "Build web applications with Ruby on Rails framework.",
+      "cover": "https://i.ibb.co/Ypgxzrv/Rectangle-3-1.png",
+      "price": 80,
+      "hour": 4
+    },
+    {
+      "id": 8,
+      "name": "Full-Stack JavaScript Development",
+      "details": "Become a full-stack developer with JavaScript, Node.js, and MongoDB.",
+      "cover": "https://i.ibb.co/gzqfKMg/Rectangle-3.png",
+      "price": 120,
+      "hour": 5
+    },
+    {
+      "id": 9,
+      "name": "iOS App Development with Swift",
+      "details": "Create iOS apps using Swift, Apple's programming language.",
+      "cover": "https://i.ibb.co/Fz5DPsB/Rectangle-2-6.png",
+      "price": 100,
+      "hour": 4
+    },
+    {
+      "id": 10,
+      "name": "Advanced Java Programming",
+      "details": "Take your Java skills to the next level with advanced concepts and techniques.",
+      "cover": "https://i.ibb.co/6mr8cxZ/Rectangle-2-1.png",
+      "price": 75,
+      "hour": 4
+    }
+  ]
+}
